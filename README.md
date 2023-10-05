@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fr4is13r3
+- 👀 I’m interested in Data, IA and Code
+- 🌱 I’m currently learning GitHub Coppilot
+- 💞️ I’m looking to collaborate on different innovation stuff
